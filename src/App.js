@@ -57,7 +57,7 @@ const getTheme = (mode) => createTheme({
 
 // Özel stil bileşenleri
 const BackgroundContainer = styled(Box)(({ theme }) => ({
-  backgroundImage: 'url(https://i.hizliresim.com/h25va53.jpg)',
+  backgroundImage: 'url(https://i.ibb.co/G5pxr0c/h25va53-2.webp)',
   backgroundSize: 'cover',
   backgroundPosition: 'center',
   backgroundAttachment: 'fixed',
@@ -332,7 +332,7 @@ const TweetGenerator = () => {
           </Fade>
           
           <Typography variant="h6" sx={{ marginBottom: 2, fontWeight: 'bold', color: 'text.primary' }}>
-            Seviye Seçin
+            Türkçülülük Seviyeni Seç
           </Typography>
           
           <Box sx={{ display: 'flex', marginBottom: 3 }}>
